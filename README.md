@@ -17,11 +17,12 @@
 ```
 
 ## Link to the project directly
-- [Spring Boot]()
-- [Spring WebFlux]()
-- [Spring Boot - Kotlin]()
-- [Spring WebFlux - Kotlin]()
-- [Interesting Project Examples]()
+
+- [Spring Boot](https://github.com/marttp/spring-boot-3-example-incl-reactive/tree/main/spring-boot-servlet)
+- [Spring WebFlux](https://github.com/marttp/spring-boot-3-example-incl-reactive/tree/main/spring-boot-reactive)
+- [Spring Boot - Kotlin](https://github.com/marttp/spring-boot-3-example-incl-reactive/tree/main/spring-boot-servlet-kt)
+- [Spring WebFlux - Kotlin](https://github.com/marttp/spring-boot-3-example-incl-reactive/tree/main/spring-boot-reactive-kt)
+- [Interesting Project Examples](https://github.com/marttp/spring-boot-3-example-incl-reactive/tree/main/project-example)
 
 ## JDK version
 
