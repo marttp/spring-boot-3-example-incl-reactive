@@ -26,10 +26,16 @@
 - [Spring for Serverless](https://github.com/marttp/spring-boot-3-example-incl-reactive/tree/main/spring-serverless)
 - [Interesting Project Examples](https://github.com/marttp/spring-boot-3-example-incl-reactive/tree/main/project-example)
 
-## JDK version
+## JDK version (Based on 20230109)
 
 ```bash
 openjdk 19.0.1 2022-10-18
 OpenJDK Runtime Environment GraalVM CE 22.3.0 (build 19.0.1+10-jvmci-22.3-b08)
 OpenJDK 64-Bit Server VM GraalVM CE 22.3.0 (build 19.0.1+10-jvmci-22.3-b08, mixed mode, sharing)
 ```
+
+## Prerequisites
+
+- Java fundamentals API 17+
+- SQL
+- The particular topics will specify on each project if required
