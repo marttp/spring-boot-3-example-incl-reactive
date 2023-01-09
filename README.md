@@ -23,6 +23,7 @@
 - [Spring WebFlux](https://github.com/marttp/spring-boot-3-example-incl-reactive/tree/main/spring-boot-reactive)
 - [Spring Boot - Kotlin](https://github.com/marttp/spring-boot-3-example-incl-reactive/tree/main/spring-boot-servlet-kt)
 - [Spring WebFlux - Kotlin](https://github.com/marttp/spring-boot-3-example-incl-reactive/tree/main/spring-boot-reactive-kt)
+- [Spring for Serverless](https://github.com/marttp/spring-boot-3-example-incl-reactive/tree/main/spring-serverless)
 - [Interesting Project Examples](https://github.com/marttp/spring-boot-3-example-incl-reactive/tree/main/project-example)
 
 ## JDK version
