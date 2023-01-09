@@ -9,11 +9,12 @@
 ```bash
 ├── README.md
 ├── prev-ver # The base structure from original fork
-├── project-example # Example of Spring Boot projects that align to real world scenarios
+├── project-example # Example of Spring Boot projects that might be aligned to real world scenarios
 ├── spring-boot-reactive # Use-cases for Spring WebFlux in Java
 ├── spring-boot-reactive-kt # Use-cases for Spring WebFlux in Kotlin
 ├── spring-boot-servlet # Use-cases for Spring Boot in Java
-└── spring-boot-servlet-kt # Use-cases for Spring Boot in Kotlin
+├── spring-boot-servlet-kt # Use-cases for Spring Boot in Kotlin
+└── spring-serverless # Use-cases for Spring Cloud Function
 ```
 
 ## Link to the project directly
